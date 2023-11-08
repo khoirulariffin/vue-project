@@ -1,0 +1,10 @@
+[{"id":1,"brand":"Nissan","sales":54},
+{"id":2,"brand":"Lincoln","sales":12},
+{"id":3,"brand":"Nissan","sales":34},
+{"id":4,"brand":"Chevrolet","sales":56},
+{"id":5,"brand":"Ford","sales":81},
+{"id":6,"brand":"Ford","sales":73},
+{"id":7,"brand":"Chevrolet","sales":41},
+{"id":8,"brand":"Mazda","sales":70},
+{"id":9,"brand":"BMW","sales":91},
+{"id":10,"brand":"Volvo","sales":61}]
